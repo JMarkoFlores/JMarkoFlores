@@ -138,4 +138,4 @@
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-## Sponsors
+<a href="mailto:jeanmpachecof@gmail.com"><img src="https://img.shields.io/badge/-jeanmpachecof@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
