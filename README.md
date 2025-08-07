@@ -6,6 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Welcome, I'm Jean Marko Flores Pacheco 👋</h1></summary>
+    <summary><h4 style="display: inline-block">A passionate developer from Peru</h4></summary>
   </ul>
 </div>
   <hr></hr>
@@ -16,12 +17,12 @@
 </div>
 -->
 
-<!--h2 without bottom border-->
+<!--h2 without bottom border
 <div id="user-content-toc">
   <ul align="center">
     <summary><h4 style="display: inline-block">A passionate developer from Peru</h4></summary>
   </ul>
-</div>
+</div> -->
 
 
 <!--Intro start-->
@@ -43,7 +44,7 @@
 
 
 
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start)
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -61,15 +62,15 @@
   
   </td>
 </tr>
-</table>
+</table>  -->
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
+<!--- trophy (start) 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</div> -->
 <!--- trophy (start) -->
 
 
