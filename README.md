@@ -127,7 +127,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Links
+## Connect with me
 
 <a href="https://www.instagram.com/markoo.flores/?igsh=aW1paWowOGQxZWl4#" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
