@@ -9,11 +9,11 @@
     <summary><h4 style="display: inline-block">A passionate developer from Peru</h4></summary>
   </ul>
 </div>
-<div align="center">
+<!-- <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height=360
 </a>
-</div>
+</div> -->
 <!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
