@@ -8,8 +8,7 @@
     <summary><h1 style="display: inline-block">Welcome, I'm Jean Marko Flores Pacheco 👋</h1></summary>
   </ul>
 </div>
-
-
+  <hr></hr>
 <!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -31,7 +30,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in web development
 
 <!--- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/) -->
 
@@ -39,7 +38,7 @@
 
 <!--- - 📫 Feel free to reach me out **nishantjangid6377@gmail.com** -->
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!-- - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username! -->
 <!--Intro end-->
 
 
