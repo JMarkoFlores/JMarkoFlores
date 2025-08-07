@@ -135,7 +135,7 @@
 <a href="https://www.linkedin.com/in/jmflorespa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:jeanmpachecof@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/jeanmpachecof@gmail.com-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<a href="mailto:jeanmpachecof@gmail.com"><img src="https://img.shields.io/badge/-jeanmpachecof@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jeanmpachecof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-jeanmpachecof@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" style="margin-bottom: 5px;"/></a>
